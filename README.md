@@ -1,0 +1,1 @@
+# My suckless utilities configuration based on [NiceMicro](https://www.youtube.com/c/NiceMicroLinux)
